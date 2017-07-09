@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "John Pearson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/JPPhoto.jpg"
   bio              : "I'm a teacher."
   location         : "Atlanta"
   email            :
