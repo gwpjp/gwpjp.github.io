@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Dr. John Pearson"
+title                    : "Dr. John Pearson, Ph.D."
 title_separator          : "-"
-name                     : "Dr. John Pearson"
+name                     : "John Pearson"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gwpjp.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gwpjp/gwpjp.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "John Pearson"
   avatar           : "/assets/images/JPPhoto.jpg"
-  bio              : "I'm a teacher."
+  bio              : 
   location         : "Atlanta"
   email            :
   uri              :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/gwpjp
+  github           : gwpjp
   gitlab           :
   google_plus      :
   keybase          :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/gwp02
+  twitter          : gwp02
   vine             :
   weibo            :
   xing             :

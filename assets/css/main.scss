@@ -5,3 +5,26 @@
 @charset "utf-8";
 
 @import "minimal-mistakes";
+
+$main: rgb(0,151,217);
+$accent: rgb(255,108,14);
+$main: black;
+$accent: black;
+
+.text-main {
+}
+
+.text-accent {
+}
+
+body {
+}
+
+.sidebar {
+    opacity: 1;
+}
+
+.greedy-nav {
+    a, a:hover{
+    }
+}
